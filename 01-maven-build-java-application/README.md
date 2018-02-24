@@ -1,3 +1,5 @@
+
+
 #用Maven来编译Java项目
 
 本教程的目的是用Maven来创建一个最简单的Java项目
